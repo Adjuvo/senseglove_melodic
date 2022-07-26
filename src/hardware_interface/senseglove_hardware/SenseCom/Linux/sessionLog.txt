@@ -1,6 +1,10 @@
-Session: 2021-03-29 13-42-40
-Running SenseCom v0.10
-OS: Linux - Linux 4.15 Ubuntu 18.04 64bit
+Session: 2022-07-26 12-54-10
+Device: PC
+OS: Linux - Linux 5.4 Ubuntu 20.04 64bit
+Processor: Intel(R) Core(TM) i7-5700HQ CPU @ 2.70GHz
+RAM: 15887 Mb
+Graphics Card: Mesa Intel(R) HD Graphics 5600 (BDW GT2) OpenGL 4.6 (Core Profile) Mesa 21.2.6, Memory: 512 Mb
+Running SenseCom v1.1.2, SGConnect C++ Library v1.3.3, SGCore C# Library v1.3.4
 
 Pre-Initialization; connected Devices:
 
@@ -17,3 +21,8 @@ Devices:
 Attempting to close connections and dispose of resources...
 Disposed of communications with code: 1
 Successfully disposed of Connections library
+
+Internal Messages:
+Main: Entering scanning thread
+Main: Exiting scanning thread, disposing of resouces
+Main: Resources have been disposed of
